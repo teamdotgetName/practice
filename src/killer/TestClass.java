@@ -3,6 +3,6 @@ package killer;
 public class TestClass {
 
 	public TestClass() {
-		//lol
+		System.out.println("hello world");
 	}
 }
